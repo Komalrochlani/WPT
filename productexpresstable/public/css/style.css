@@ -1,0 +1,17 @@
+h1{
+    color: red;
+
+}
+
+a:link:visited{
+    color: chartreuse;
+}
+
+a:link:active{
+    color: black;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+}
